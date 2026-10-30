@@ -63,7 +63,7 @@ Sistema web para la gestión del transporte interprovincial de pasajeros en Ecua
 
 <br>
 
-### [Sistema Automatizado para la Homologación de Materias y Créditos (FISEI - UTA)](https://github.com/David22x/HomologacionesFISEI)
+### [Sistema Automatizado para la Homologación de Materias y Créditos](https://github.com/David22x/HomologacionesFISEI)
 Sistema que permite a un profesor designado gestionar la homologación de materias y créditos de estudiantes, internos o externos, hacia una carrera y malla de destino. El administrador mantiene el catálogo académico (carreras, mallas, asignaturas, temas y subtemas) y el historial de un estudiante externo se importa desde una plantilla de Excel.
 
 **Arquitectura y tecnologías:** microservicios en .NET 8 (Auth, Academic, Students, Documents y Homologation), cada uno con su propia base de datos en SQL Server, un API Gateway con Ocelot como entrada única y frontend en React.
