@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Damaris Sailema, estudiante de Ingeniería de Software" width="100%">
+<img src="assets/banner.svg" alt="Damaris Sailema, estudiante de Ingeniería de Software" width="100%">
 
 <br><br>
 
