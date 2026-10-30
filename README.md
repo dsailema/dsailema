@@ -41,16 +41,12 @@ Idiomas: español (nativo) e inglés (B1).
 
 | Proyecto | Descripción | Tecnologías |
 | :-- | :-- | :-- |
-| [Nombre del proyecto 1](https://github.com/Sasha25063/nombre-del-repositorio) | [Qué hace y para qué sirve, en una línea.] | [Ej: PHP, SQL] |
-| [Nombre del proyecto 2](https://github.com/Sasha25063/nombre-del-repositorio) | [Qué hace y para qué sirve, en una línea.] | [Ej: Java] |
-| [Nombre del proyecto 3](https://github.com/Sasha25063/nombre-del-repositorio) | [Qué hace y para qué sirve, en una línea.] | [Ej: HTML, CSS, JS] |
-
----
+| [EcuaRutas](https://github.com/JuanFull1/EcuaRutas) | Proyecto en equipo con una API en .NET. Aporté correcciones a un test, a un archivo .http y al título de la página mediante un pull request. | .NET |
+| [Homologación](https://github.com/David22x/HomologacionesFISEI) | Proyecto en equipo que utiliza APIs, microservicios, base de datos, que nos servira para la homologacion de materias.] | [.NET] |
 
 ## En qué estoy trabajando ahora
 
 - Profundizar en desarrollo web, tanto front-end como back-end.
-- Consultas y modelado de bases de datos con SQL.
 - Mejorar mi inglés técnico leyendo documentación.
 
 ---
