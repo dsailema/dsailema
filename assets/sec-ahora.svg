@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="68" viewBox="0 0 1000 68" role="img" aria-label="En qué estoy trabajando ahora">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5b0f1f"/>
+      <stop offset="0.6" stop-color="#2a1410"/>
+      <stop offset="1" stop-color="#150a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="68" rx="8" fill="url(#g)"/>
+  <rect width="8" height="68" rx="2" fill="#8b5e3c"/>
+  <text x="34" y="45" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#ffffff">En qué estoy trabajando ahora</text>
+</svg>
